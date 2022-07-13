@@ -32,5 +32,3 @@ switch (color) {
 
 
 
-
-
